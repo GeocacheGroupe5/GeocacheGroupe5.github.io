@@ -1,0 +1,46 @@
+* {
+    font-family: Tahoma, sans-serif;
+    color: white;
+    font-size: large;
+}
+
+h1{
+    font-family: Georgia, serif;
+    font-weight: bold;
+    color: white;
+    font-size: xxx-large;
+}
+h4{
+    font-family:fantasy;
+    font-weight: 50;
+    color: white;
+    font-size: x-large;
+}
+
+h5{
+    font-family:monospace;
+    font-weight: 30;
+    color: #001501;
+    font-size:large;
+}
+
+h6{
+    font-family:cursive;
+    color: white;
+    font-size: x-large;
+}
+h7{
+    font-family:cursive;
+    color: #e9ff00;
+    font-size: x-large;
+}
+
+strong {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    color:#e9ff00;
+}
+
+body{
+    background-color: #001501; 
+}
